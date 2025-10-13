@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Robert Steven Elliott, BSc (Hons) MBCS
+💼 **Member of the British Computer Society (BCS)**
 
-😄 Pronouns: He/Him
+😄 **Pronouns:** He/Him
 
 🎓 **Computing and IT graduate** passionate about **accessibility** and **ethical web development**,  
 now transitioning into the world of **Data Analytics**.
