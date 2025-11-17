@@ -29,16 +29,38 @@ I believe technology should **empower people**, not exclude them.
 
 ---
 
+## Programming Languages
+
+- Python
+- Java
+
 ## 🛠️ Tech Stack
 
 **Web Development:**  
-PHP, Laravel, JavaScript, HTML, CSS, Bootstrap
+- PHP
+- Laravel
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
 
 **Data Analytics & AI:**  
-Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, TensorFlow, Keras
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-Learn
+- TensorFlow
+- Keras
+- Streamlit, 
 
 **Other Skills:**  
-Accessibility Testing, RESTful APIs, Git, Data Visualisation, Ethical AI
+- Accessibility Testing
+- RESTful APIs
+- Git
+- Data Visualisation
+- Ethical AI
 
 ---
 
