@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Robert Steven Elliott, BSc (Hons)
+# 👋 Hi, I'm Robert Steven Elliott BSc (Hons), MBCS
 
 🎓 **Computing and IT graduate** passionate about **accessibility** and **ethical web development**,  
 now transitioning into the world of **Data Analytics**.  
